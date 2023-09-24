@@ -1,74 +1,68 @@
 export const skills = [
   {
     skill: "Javascript",
-    percentage: 100,
-  },
-  {
-    skill: "Golang",
-    percentage: 80,
-  },
-  {
-    skill: "Nodejs",
     percentage: 90,
   },
   {
-    skill: "Blockchain",
-    percentage: 40,
+    skill: "Reactjs",
+    percentage: 85,
   },
   {
-    skill: "Physics",
+    skill: "Nodejs",
+    percentage: 65,
+  },
+  {
+    skill: "React-Native",
+    percentage: 80,
+  },
+  {
+    skill: "sequelize",
     percentage: 70,
   },
   {
-    skill: "Economics",
+    skill: "sql",
     percentage: 70,
   },
   {
-    skill: "Machine Learning",
-    percentage: 70,
+    skill: "no-sql",
+    percentage: 45,
   },
 ];
 
 export const experiences = [
   {
-    title: "Software developer at Microsoft",
+    title: "Full Stack Web Developer",
     description:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem officiis fugiat vel animi aliquam inventore rem. Quo laudantium temporibus cupiditate. Aut?",
-    from: 2000,
-    to: 2005,
+    from: 2023,
+    to: 0,
   },
   {
-    title: "Software developer at Google",
+    title: "Mobile and backend Developer",
     description:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem officiis fugiat vel animi aliquam inventore rem. Quo laudantium temporibus cupiditate. Aut?",
-    from: 2005,
-    to: 2007,
-  },
-  {
-    title: "Software developer at SpaceX",
-    description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem officiis fugiat vel animi aliquam inventore rem. Quo laudantium temporibus cupiditate. Aut?",
-    from: 2010,
+    from: 2022,
+    to: 2023,
   },
 ];
 
 export const projects = [
   {
-    name: "Awesome Website 1",
+    name: "Face-recognition-brain",
     description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
+      "Look for your favourite celebrity with A.I. help!",
     image: "portfolio1.jpeg",
   },
   {
-    name: "Awesome Website 2",
+    name: "OYE",
     description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
+      "Listen your favourite music on OYE",
     image: "portfolio2.jpg",
   },
   {
-    name: "Awesome Website 3",
+    name: "Notas-app",
     description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
+      "Don't forget anithing with this  scheadule app",
     image: "portfolio3.png",
   },
   {

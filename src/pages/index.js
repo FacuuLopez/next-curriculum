@@ -11,20 +11,19 @@ const Index = () => (
         <div className="card card-body bg-secondary text-light animate__animated animate__fadeIn">
           <div className="row">
             <div className="col-md-4">
-              <img src="/ryan-ray-profile2.jpeg" alt="" className="img-fluid" />
+              <img src="/foto-curriculum.jpg" alt="" className="img-fluid" />
             </div>
             <div className="col-md-8">
-              <h1>Ryan Ray</h1>
+              <h1>Facundo Lopez</h1>
               <h3>Full Stack Developer</h3>
               <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Molestiae atque ullam perferendis harum, nisi porro voluptate,
-                iste consequuntur enim reprehenderit architecto consectetur cum?
-                Totam ad molestias natus illum illo officia.
+                Hi! I'm Facundo Lopez from Buenos Aires, Argentina. I'm actually working as Full Stack Developer but
+                I also program in mobile
+
               </p>
-              <Link href="/hireme" className="btn btn-outline-light">
-                Hire Me
-              </Link>
+              <a href="https://api.whatsapp.com/send/?phone=5491123367518" className="btn btn-outline-light">
+                Contact Me
+              </a>
             </div>
           </div>
         </div>
